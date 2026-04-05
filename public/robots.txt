@@ -1,0 +1,26 @@
+User-agent: *
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+Sitemap: https://kolweb3.com/sitemap.xml
+
+# AI Crawlers - full access for AI search engines
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Bytespider
+Allow: /
