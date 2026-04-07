@@ -1,34 +1,47 @@
 import { MetadataRoute } from 'next';
+import { getPublishedPosts } from '@/lib/blog/posts';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://kolweb3.com';
-  const now = new Date();
+  const posts = getPublishedPosts();
 
-  const routes = [
-    '',
-    '/about',
-    '/contact',
-    '/blog',
-    '/cases',
-    '/cases/fintech-igaming-6-geo',
-    '/cases/layerai-ido-1b-tvl',
-    '/cases/primexbt-deposits',
-    '/services/kol-influencer-marketing',
-    '/services/crypto-influencer-marketing',
-    '/services/web3-marketing',
-    '/services/ppc-paid-advertising',
-    '/services/smm-community-management',
-    '/services/pr-media',
-    '/industries/crypto-web3',
-    '/industries/igaming-binary',
-    '/industries/fintech',
-    '/industries/rwa-token',
-  ];
-
-  return routes.map((route) => ({
-    url: `${baseUrl}${route}`,
-    lastModified: now,
-    changeFrequency: route === '' ? 'weekly' : 'monthly',
-    priority: route === '' ? 1 : route.startsWith('/services') || route.startsWith('/industries') ? 0.8 : 0.7,
+  const blogEntries = posts.map((post) => ({
+    url: `https://kolweb3.com/blog/${post.slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.8,
   }));
+
+  return [
+    {
+      url: 'https://kolweb3.com',
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 1,
+    },
+    {
+      url: 'https://kolweb3.com/blog',
+      lastModified: new Date(),
+      changeFrequency: 'weekly',
+      priority: 0.9,
+    },
+    {
+      url: 'https://kolweb3.com/about',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
+      url: 'https://kolweb3.com/contact',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    {
+      url: 'https://kolweb3.com/cases',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
+      priority: 0.7,
+    },
+    ...blogEntries,
+  ];
 }
