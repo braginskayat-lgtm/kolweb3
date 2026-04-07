@@ -82,9 +82,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://kolweb3.com',
   },
-  verification: {
-    google: 'your-google-verification-code',
-  },
+verification: {
+  google: 'HU6ITxA6yZaodJlOH-MbqeRHh569fs4hoHIWaUC1EZA',
+},
 };
 
 export default function RootLayout({
