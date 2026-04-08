@@ -1382,6 +1382,7 @@ export const blogPosts: BlogPost[] = [
         body: `
           <p>KolWeb3 has a vetted network of KOLs across Vietnam, Indonesia, Thailand, and the Philippines. We run geo-targeted campaigns with local-language content, country-specific KOL selection, and community setup that converts.</p>
           <p>Whether you are launching a token, growing a DeFi protocol, or scaling a Web3 game — we help you enter SEA with the right partners, right messaging, and measurable results.</p>
+          <p>Also read: <a href="/blog/brazil-crypto-marketing-guide" class="text-primary hover:underline">Brazil Crypto Marketing Guide</a></p>
           <p><a href="/services" class="text-primary hover:underline">Explore our crypto marketing services</a> or <a href="/#contact" class="text-primary hover:underline">contact us to discuss your SEA campaign</a>.</p>
         `,
       },
@@ -1456,6 +1457,7 @@ export const blogPosts: BlogPost[] = [
         body: `
           <p>KolWeb3 works with a vetted network of Brazilian KOLs across YouTube, Twitter, and Telegram. We run Portuguese-language campaigns with local community setup, KOL selection based on engagement data, and measurable growth metrics.</p>
           <p>Whether you are launching a token, scaling a DeFi protocol, or entering the Brazilian gaming market — we help you build presence that converts.</p>
+          <p>Also read: <a href="/blog/crypto-marketing-southeast-asia" class="text-primary hover:underline">Crypto Marketing in Southeast Asia</a></p>
           <p><a href="/services" class="text-primary hover:underline">Explore our crypto marketing services</a> or <a href="/#contact" class="text-primary hover:underline">contact us to discuss your Brazil campaign</a>.</p>
         `,
       },
