@@ -11,7 +11,8 @@
       "Bash(npm run:*)",
       "Bash(node generate-assets.js)",
       "Bash(node -e \":*)",
-      "Bash(npx vercel:*)"
+      "Bash(npx vercel:*)",
+      "mcp__Claude_Preview__preview_start"
     ]
   }
 }
