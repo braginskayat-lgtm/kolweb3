@@ -3,6 +3,7 @@ import { Inter } from 'next/font/google';
 import './globals.css';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
+import { GoogleAnalytics } from '@next/third-parties/google';
 
 const inter = Inter({
   subsets: ['latin'],
@@ -82,9 +83,9 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://kolweb3.com',
   },
-verification: {
-  google: 'HU6ITxA6yZaodJlOH-MbqeRHh569fs4hoHIWaUC1EZA',
-},
+  verification: {
+    google: 'HU6ITxA6yZaodJlOH-MbqeRHh569fs4hoHIWaUC1EZA',
+  },
 };
 
 export default function RootLayout({
@@ -100,6 +101,7 @@ export default function RootLayout({
         <main>{children}</main>
         <Footer />
       </body>
+      <GoogleAnalytics gaId="G-X37SBJZYE5" />
     </html>
   );
 }
