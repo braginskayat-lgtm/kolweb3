@@ -8,7 +8,7 @@ import { getAllPosts } from '@/lib/blog/posts';
 export const metadata: Metadata = {
   title: 'Crypto KOL Marketing Blog | Guides, Case Studies & Strategy',
   description: 'Crypto KOL and influencer marketing insights from managing $3.1M+ in Web3 marketing budgets.',
-  alternates: { canonical: 'https://kolweb3.com/blog' },
+  alternates: { canonical: 'https://www.kolweb3.com/blog' },
 };
 
 export default function BlogPage() {

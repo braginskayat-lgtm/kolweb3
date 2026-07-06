@@ -5,11 +5,11 @@ export const metadata: Metadata = {
   title: 'Crypto PR & Media Agency | CoinTelegraph, Decrypt, BeInCrypto Placements',
   description:
     'Crypto PR and media placement agency. Get featured on CoinTelegraph, Decrypt, BeInCrypto, and 50+ crypto media outlets. Press release distribution, thought leadership.',
-  alternates: { canonical: 'https://kolweb3.com/services/pr-media' },
+  alternates: { canonical: 'https://www.kolweb3.com/services/pr-media' },
   openGraph: {
     title: 'Crypto PR & Media Placement | CoinTelegraph, Decrypt | kolweb3.com',
     description: 'Press releases and editorial coverage on CoinTelegraph, Decrypt, BeInCrypto, and 50+ crypto media outlets. Reputation management for Web3 projects.',
-    url: 'https://kolweb3.com/services/pr-media',
+    url: 'https://www.kolweb3.com/services/pr-media',
   },
 };
 

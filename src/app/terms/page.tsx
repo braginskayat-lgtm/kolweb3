@@ -4,7 +4,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'Terms of Service | kolweb3.com',
   description: 'Terms of service for kolweb3.com crypto marketing agency.',
-  alternates: { canonical: 'https://kolweb3.com/terms' },
+  alternates: { canonical: 'https://www.kolweb3.com/terms' },
   robots: { index: false },
 };
 

@@ -8,11 +8,11 @@ export const metadata: Metadata = {
   title: 'Fintech Influencer Marketing Agency | Crypto Trading, Payment Apps',
   description:
     'Fintech influencer marketing for trading platforms, payment apps, and prop trading firms. Multi-GEO campaigns, CPT optimization, $3.1M+ managed.',
-  alternates: { canonical: 'https://kolweb3.com/industries/fintech' },
+  alternates: { canonical: 'https://www.kolweb3.com/industries/fintech' },
   openGraph: {
     title: 'Fintech Influencer Marketing | kolweb3.com',
     description: 'Influencer marketing for fintech: crypto trading platforms, payment apps, prop firms. $3.1M+ managed across 6 GEOs.',
-    url: 'https://kolweb3.com/industries/fintech',
+    url: 'https://www.kolweb3.com/industries/fintech',
   },
 };
 

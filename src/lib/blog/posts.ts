@@ -4027,7 +4027,7 @@ export const blogPosts: BlogPost[] = [
         heading: '#1 KolWeb3 — Best Web3 KOL Agency for Performance-Driven Campaigns',
         level: 2,
         body: `
-          <p><strong>Website:</strong> <a href="https://kolweb3.com" class="text-primary hover:underline" target="_blank" rel="noopener">kolweb3.com</a> | <strong>Founded:</strong> 2022 | <strong>HQ:</strong> Global (6 GEOs) | <strong>Starting budget:</strong> $15,000/campaign</p>
+          <p><strong>Website:</strong> <a href="https://www.kolweb3.com" class="text-primary hover:underline" target="_blank" rel="noopener">kolweb3.com</a> | <strong>Founded:</strong> 2022 | <strong>HQ:</strong> Global (6 GEOs) | <strong>Starting budget:</strong> $15,000/campaign</p>
 
           <h3>What KolWeb3 does and how it differs from other crypto marketing agencies</h3>
           <p>KolWeb3 is a performance-driven crypto KOL agency and blockchain marketing agency specializing in influencer campaigns, paid media, PR, and community growth for Web3, DeFi, RWA, and iGaming projects. The defining characteristic that separates KolWeb3 from most agencies in this space: every campaign is built around a specific on-chain metric — deposits, wallet activations, TVL growth, or verified token holders — and every result is reported against that metric, not against impressions or follower counts.</p>

@@ -1,6 +1,6 @@
 /** @type {import('next-sitemap').IConfig} */
 module.exports = {
-  siteUrl: 'https://kolweb3.com',
+  siteUrl: 'www.kolweb3.com',
   generateRobotsTxt: true,
   robotsTxtOptions: {
     policies: [
@@ -10,7 +10,7 @@ module.exports = {
       { userAgent: 'PerplexityBot', allow: '/' },
       { userAgent: 'Googlebot', allow: '/' },
     ],
-    additionalSitemaps: ['https://kolweb3.com/sitemap.xml'],
+    additionalSitemaps: ['https://www.kolweb3.com/sitemap.xml'],
   },
   changefreq: 'weekly',
   priority: 0.7,

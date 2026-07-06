@@ -5,11 +5,11 @@ export const metadata: Metadata = {
   title: 'KOL & Influencer Marketing for Crypto | Web3 KOL Agency',
   description:
     'Full-cycle KOL & influencer marketing for crypto and Web3 projects. 50+ verified KOLs, multi-platform campaigns, $3.1M+ managed. Get a custom strategy.',
-  alternates: { canonical: 'https://kolweb3.com/services/kol-influencer-marketing' },
+  alternates: { canonical: 'https://www.kolweb3.com/services/kol-influencer-marketing' },
   openGraph: {
     title: 'KOL & Influencer Marketing for Crypto | kolweb3.com',
     description: 'Full-cycle KOL campaign management for Web3 projects. 50+ KOLs, verified audiences, performance reporting.',
-    url: 'https://kolweb3.com/services/kol-influencer-marketing',
+    url: 'https://www.kolweb3.com/services/kol-influencer-marketing',
   },
 };
 

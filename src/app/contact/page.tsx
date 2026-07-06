@@ -6,11 +6,11 @@ export const metadata: Metadata = {
   title: 'Contact | Get a Free Crypto KOL Marketing Proposal',
   description:
     'Get a free crypto KOL marketing proposal. Tell us about your project — budget, goals, target GEO — and we\'ll respond within 24 hours.',
-  alternates: { canonical: 'https://kolweb3.com/contact' },
+  alternates: { canonical: 'https://www.kolweb3.com/contact' },
   openGraph: {
     title: 'Contact kolweb3.com | Free Crypto KOL Marketing Proposal',
     description: 'Tell us about your Web3 or iGaming project. Free strategy consultation within 24 hours.',
-    url: 'https://kolweb3.com/contact',
+    url: 'https://www.kolweb3.com/contact',
   },
 };
 

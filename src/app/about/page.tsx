@@ -8,11 +8,11 @@ export const metadata: Metadata = {
   title: 'About kolweb3.com | Crypto KOL Marketing Agency',
   description:
     'About kolweb3.com — a performance-driven crypto KOL & influencer marketing agency specializing in Web3, DeFi, iGaming and Fintech. $3.1M+ managed.',
-  alternates: { canonical: 'https://kolweb3.com/about' },
+  alternates: { canonical: 'https://www.kolweb3.com/about' },
   openGraph: {
     title: 'About kolweb3.com | Crypto KOL Marketing Agency',
     description: 'Performance-driven crypto KOL marketing agency. $3.1M+ budgets managed. Meet our approach to Web3 influencer marketing.',
-    url: 'https://kolweb3.com/about',
+    url: 'https://www.kolweb3.com/about',
   },
 };
 

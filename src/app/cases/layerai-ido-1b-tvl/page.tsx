@@ -8,11 +8,11 @@ export const metadata: Metadata = {
   title: 'Case Study: LayerAI IDO — 50,000 Participants & $1B TVL',
   description:
     'How we launched LayerAI (CryptoGPT) IDO: 50+ KOLs, 55,000 community members, $1B TVL, $40M daily trading volume. DAO Maker + WePad launchpads.',
-  alternates: { canonical: 'https://kolweb3.com/cases/layerai-ido-1b-tvl' },
+  alternates: { canonical: 'https://www.kolweb3.com/cases/layerai-ido-1b-tvl' },
   openGraph: {
     title: 'LayerAI IDO Case Study: $1B TVL, 50,000 Participants | kolweb3.com',
     description: 'Full IDO launch campaign results: 50+ KOLs, 150+ posts, 2M+ audience reach, 55,000 community members, $1B TVL at IDO.',
-    url: 'https://kolweb3.com/cases/layerai-ido-1b-tvl',
+    url: 'https://www.kolweb3.com/cases/layerai-ido-1b-tvl',
   },
 };
 
@@ -23,7 +23,7 @@ export default function LayerAICasePage() {
     headline: 'IDO Marketing Case Study: 50,000 Participants & $1B TVL for LayerAI',
     description: 'How kolweb3.com executed the LayerAI (CryptoGPT) IDO marketing campaign, generating $1B TVL and 55,000 community members.',
     author: { '@type': 'Organization', name: 'kolweb3.com' },
-    publisher: { '@type': 'Organization', name: 'kolweb3.com', url: 'https://kolweb3.com' },
+    publisher: { '@type': 'Organization', name: 'kolweb3.com', url: 'https://www.kolweb3.com' },
   };
 
   return (

@@ -12,7 +12,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL('https://kolweb3.com'),
+  metadataBase: new URL('https://www.kolweb3.com'),
   title: {
     default: 'Crypto Marketing Agency for Web3, DeFi, RWA & iGaming | KolWeb3',
     template: '%s | KolWeb3 Crypto Marketing Agency',
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: 'website',
     locale: 'en_US',
-    url: 'https://kolweb3.com',
+    url: 'https://www.kolweb3.com',
     siteName: 'KolWeb3',
     title: 'Crypto Marketing Agency for Web3, DeFi, RWA & iGaming | KolWeb3',
     description:
@@ -81,7 +81,7 @@ export const metadata: Metadata = {
     apple: '/apple-icon.png',
   },
   alternates: {
-    canonical: 'https://kolweb3.com',
+    canonical: 'https://www.kolweb3.com',
   },
   verification: {
     google: 'HU6ITxA6yZaodJlOH-MbqeRHh569fs4hoHIWaUC1EZA',

@@ -8,11 +8,11 @@ export const metadata: Metadata = {
   title: 'Case Study: $3.1M+ Fintech KOL Campaigns Across 6 GEOs',
   description:
     'How we managed $3.1M+ in fintech/iGaming KOL budgets across Brazil ($690K), Mexico ($595K), Colombia ($630K), Philippines ($586K), Nigeria ($110K), India ($500K). CPT from $100.',
-  alternates: { canonical: 'https://kolweb3.com/cases/fintech-igaming-6-geo' },
+  alternates: { canonical: 'https://www.kolweb3.com/cases/fintech-igaming-6-geo' },
   openGraph: {
     title: 'Case Study: $3.1M+ Fintech KOL Marketing Across 6 GEOs | kolweb3.com',
     description: 'Platform pivot from YouTube to Instagram reduced CPT from $740 to $237 in Brazil. Record $125 CPT in Colombia. Zero budget rollovers.',
-    url: 'https://kolweb3.com/cases/fintech-igaming-6-geo',
+    url: 'https://www.kolweb3.com/cases/fintech-igaming-6-geo',
   },
 };
 
@@ -32,7 +32,7 @@ export default function FintechCasePage() {
     headline: 'Fintech Influencer Marketing: $3.1M+ KOL Campaigns Across 6 GEOs',
     description: 'Case study of a multi-GEO fintech influencer marketing campaign managing $3.1M+ across Brazil, Mexico, Colombia, Philippines, Nigeria, and India.',
     author: { '@type': 'Organization', name: 'kolweb3.com' },
-    publisher: { '@type': 'Organization', name: 'kolweb3.com', url: 'https://kolweb3.com' },
+    publisher: { '@type': 'Organization', name: 'kolweb3.com', url: 'https://www.kolweb3.com' },
   };
 
   return (

@@ -16,7 +16,7 @@ Allow: /
 User-agent: ClaudeBot
 Allow: /
 
-Sitemap: https://kolweb3.com/sitemap.xml
+Sitemap: https://www.kolweb3.com/sitemap.xml
 
 # AI Crawlers - full access for AI search engines
 User-agent: anthropic-ai

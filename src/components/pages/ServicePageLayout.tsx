@@ -39,12 +39,12 @@ export function ServicePageLayout({
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://kolweb3.com' },
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://www.kolweb3.com' },
       ...breadcrumb.map((b, i) => ({
         '@type': 'ListItem',
         position: i + 2,
         name: b.label,
-        item: `https://kolweb3.com${b.href}`,
+        item: `https://www.kolweb3.com${b.href}`,
       })),
     ],
   };

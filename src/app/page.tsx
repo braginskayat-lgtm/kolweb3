@@ -13,11 +13,11 @@ export const metadata: Metadata = {
   title: 'Crypto KOL & Influencer Marketing Agency | Web3, DeFi, iGaming',
   description:
     'Leading crypto KOL & influencer marketing agency for Web3, RWA, DeFi & iGaming projects. $3.1M+ budgets managed, $1B+ TVL generated, 55,000+ community members. Get a free proposal.',
-  alternates: { canonical: 'https://kolweb3.com' },
+  alternates: { canonical: 'https://www.kolweb3.com' },
   openGraph: {
     title: 'Crypto KOL & Influencer Marketing Agency | kolweb3.com',
     description: '$3.1M+ budgets managed. $1B+ TVL generated. Performance-driven crypto KOL marketing for Web3, DeFi, RWA & iGaming.',
-    url: 'https://kolweb3.com',
+    url: 'https://www.kolweb3.com',
   },
 };
 
@@ -25,8 +25,8 @@ const organizationSchema = {
   '@context': 'https://schema.org',
   '@type': 'Organization',
   name: 'kolweb3.com',
-  url: 'https://kolweb3.com',
-  logo: 'https://kolweb3.com/logo.png',
+  url: 'https://www.kolweb3.com',
+  logo: 'https://www.kolweb3.com/logo.png',
   description:
     'Crypto KOL & influencer marketing agency specializing in Web3, RWA, DeFi, iGaming and Fintech projects.',
   email: 'hello@kolweb3.com',

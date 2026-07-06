@@ -19,11 +19,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   return {
     title: post.seoTitle ?? post.title,
     description: post.seoDescription ?? post.excerpt,
-    alternates: { canonical: `https://kolweb3.com/blog/${post.slug}` },
+    alternates: { canonical: `https://www.kolweb3.com/blog/${post.slug}` },
     openGraph: {
       title: post.seoTitle ?? post.title,
       description: post.seoDescription ?? post.excerpt,
-      url: `https://kolweb3.com/blog/${post.slug}`,
+      url: `https://www.kolweb3.com/blog/${post.slug}`,
     },
   };
 }

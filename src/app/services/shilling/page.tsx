@@ -7,12 +7,12 @@ export const metadata: Metadata = {
   title: 'Crypto Shilling Agency - Compliant Community Promotion for Web3 | KolWeb3',
   description:
     'Run compliant crypto shilling campaigns across Telegram, Discord and X. KolWeb3 builds disclosed, authentic promotion for Web3, DeFi and RWA projects - without the bans, fines or burned reputation.',
-  alternates: { canonical: 'https://kolweb3.com/services/shilling' },
+  alternates: { canonical: 'https://www.kolweb3.com/services/shilling' },
   openGraph: {
     title: 'Crypto Shilling Agency - Compliant Community Promotion for Web3 | KolWeb3',
     description:
       'Run compliant crypto shilling campaigns across Telegram, Discord and X. KolWeb3 builds disclosed, authentic promotion for Web3, DeFi and RWA projects - without the bans, fines or burned reputation.',
-    url: 'https://kolweb3.com/services/shilling',
+    url: 'https://www.kolweb3.com/services/shilling',
   },
 };
 

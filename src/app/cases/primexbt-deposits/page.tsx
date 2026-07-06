@@ -8,11 +8,11 @@ export const metadata: Metadata = {
   title: 'Case Study: $1,340,000+ Deposits for PrimeXBT Exchange',
   description:
     'How KOL marketing + live web panel conference drove $1.34M+ in deposits, 12,000 new users, and 89,000 followers for PrimeXBT. Afterparty content = 40% of registrations.',
-  alternates: { canonical: 'https://kolweb3.com/cases/primexbt-deposits' },
+  alternates: { canonical: 'https://www.kolweb3.com/cases/primexbt-deposits' },
   openGraph: {
     title: 'PrimeXBT Case Study: $1.34M+ Deposits via KOL Marketing | kolweb3.com',
     description: '15 KOLs, live conference, afterparty content wave — 40% of registrations from post-event content. $1.34M+ verified deposits.',
-    url: 'https://kolweb3.com/cases/primexbt-deposits',
+    url: 'https://www.kolweb3.com/cases/primexbt-deposits',
   },
 };
 
@@ -23,7 +23,7 @@ export default function PrimeXBTCasePage() {
     headline: 'CEX Marketing Case Study: $1,340,000+ Deposits for PrimeXBT Exchange',
     description: 'KOL influencer marketing campaign for PrimeXBT crypto trading platform generating over $1.34 million in verified deposits.',
     author: { '@type': 'Organization', name: 'kolweb3.com' },
-    publisher: { '@type': 'Organization', name: 'kolweb3.com', url: 'https://kolweb3.com' },
+    publisher: { '@type': 'Organization', name: 'kolweb3.com', url: 'https://www.kolweb3.com' },
   };
 
   return (

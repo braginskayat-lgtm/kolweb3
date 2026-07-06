@@ -33,6 +33,6 @@ export default function robots(): MetadataRoute.Robots {
         allow: '/',
       },
     ],
-    sitemap: 'https://kolweb3.com/sitemap.xml',
+    sitemap: 'https://www.kolweb3.com/sitemap.xml',
   };
 }

@@ -9,11 +9,11 @@ export const metadata: Metadata = {
   title: 'iGaming & Binary Options Marketing | Influencer Campaigns | kolweb3',
   description:
     'Specialist iGaming and binary options influencer marketing. $3.1M+ managed across Brazil, Mexico, Colombia, Philippines, Nigeria, India. Record CPT $100.',
-  alternates: { canonical: 'https://kolweb3.com/industries/igaming-binary' },
+  alternates: { canonical: 'https://www.kolweb3.com/industries/igaming-binary' },
   openGraph: {
     title: 'iGaming & Binary Options Influencer Marketing | kolweb3.com',
     description: '$3.1M+ KOL campaigns for iGaming and binary options across 6 GEOs. Record CPT $100 in Philippines, $125 in Colombia.',
-    url: 'https://kolweb3.com/industries/igaming-binary',
+    url: 'https://www.kolweb3.com/industries/igaming-binary',
   },
 };
 

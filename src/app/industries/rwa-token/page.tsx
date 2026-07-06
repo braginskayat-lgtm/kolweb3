@@ -8,11 +8,11 @@ export const metadata: Metadata = {
   title: 'RWA & Token Marketing Agency | Real World Asset Tokenization Marketing',
   description:
     'Marketing agency specializing in RWA (Real World Assets) tokenization and security token projects. KOL campaigns, institutional outreach, community building.',
-  alternates: { canonical: 'https://kolweb3.com/industries/rwa-token' },
+  alternates: { canonical: 'https://www.kolweb3.com/industries/rwa-token' },
   openGraph: {
     title: 'RWA & Token Marketing Agency | kolweb3.com',
     description: 'Specialized marketing for Real World Asset tokenization and security token projects. KOL campaigns, institutional investor outreach.',
-    url: 'https://kolweb3.com/industries/rwa-token',
+    url: 'https://www.kolweb3.com/industries/rwa-token',
   },
 };
 

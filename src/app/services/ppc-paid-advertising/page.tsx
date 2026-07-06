@@ -7,12 +7,12 @@ export const metadata: Metadata = {
   title: 'Crypto PPC & Paid Ads Agency — Google, Meta, TikTok for Web3 & Fintech | KolWeb3',
   description:
     'Run crypto-compliant paid ad campaigns on Google, Meta and TikTok. KolWeb3 manages PPC for Web3, DeFi, RWA and Fintech projects — with real ad accounts, proxies and proven results.',
-  alternates: { canonical: 'https://kolweb3.com/services/ppc-paid-advertising' },
+  alternates: { canonical: 'https://www.kolweb3.com/services/ppc-paid-advertising' },
   openGraph: {
     title: 'Crypto PPC & Paid Ads Agency — Google, Meta, TikTok for Web3 & Fintech | KolWeb3',
     description:
       'Run crypto-compliant paid ad campaigns on Google, Meta and TikTok. KolWeb3 manages PPC for Web3, DeFi, RWA and Fintech projects — with real ad accounts, proxies and proven results.',
-    url: 'https://kolweb3.com/services/ppc-paid-advertising',
+    url: 'https://www.kolweb3.com/services/ppc-paid-advertising',
   },
 };
 

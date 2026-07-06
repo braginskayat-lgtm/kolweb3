@@ -5,11 +5,11 @@ export const metadata: Metadata = {
   title: 'Crypto Influencer Marketing Agency | YouTube, Twitter, Telegram',
   description:
     'Crypto influencer marketing across YouTube, Twitter/X, Telegram, Instagram & TikTok. Reach 2M+ crypto audiences with verified influencers. Free proposal.',
-  alternates: { canonical: 'https://kolweb3.com/services/crypto-influencer-marketing' },
+  alternates: { canonical: 'https://www.kolweb3.com/services/crypto-influencer-marketing' },
   openGraph: {
     title: 'Crypto Influencer Marketing Agency | kolweb3.com',
     description: 'YouTube reviews, Twitter threads, Telegram blasts. Targeted crypto influencer campaigns that drive real token holders and users.',
-    url: 'https://kolweb3.com/services/crypto-influencer-marketing',
+    url: 'https://www.kolweb3.com/services/crypto-influencer-marketing',
   },
 };
 

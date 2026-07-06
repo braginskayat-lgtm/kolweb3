@@ -5,11 +5,11 @@ export const metadata: Metadata = {
   title: 'Web3 Marketing Agency | IDO, DeFi, NFT, Token Launch Marketing',
   description:
     'Full-stack Web3 marketing for IDO launches, DeFi protocols, NFT collections, and token projects. $1B+ TVL generated. Airdrop, community, KOL campaigns.',
-  alternates: { canonical: 'https://kolweb3.com/services/web3-marketing' },
+  alternates: { canonical: 'https://www.kolweb3.com/services/web3-marketing' },
   openGraph: {
     title: 'Web3 Marketing Agency | IDO, DeFi & Token Launch | kolweb3.com',
     description: 'Comprehensive Web3 marketing services — IDO launch campaigns, DeFi protocol marketing, NFT drops, airdrop campaigns. $1B+ TVL generated.',
-    url: 'https://kolweb3.com/services/web3-marketing',
+    url: 'https://www.kolweb3.com/services/web3-marketing',
   },
 };
 

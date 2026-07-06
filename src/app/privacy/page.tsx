@@ -4,7 +4,7 @@ import Link from 'next/link';
 export const metadata: Metadata = {
   title: 'Privacy Policy | kolweb3.com',
   description: 'Privacy policy for kolweb3.com — how we collect, use, and protect your information.',
-  alternates: { canonical: 'https://kolweb3.com/privacy' },
+  alternates: { canonical: 'https://www.kolweb3.com/privacy' },
   robots: { index: false },
 };
 

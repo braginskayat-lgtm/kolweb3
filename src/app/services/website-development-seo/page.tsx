@@ -7,12 +7,12 @@ export const metadata: Metadata = {
   title: 'Crypto Website Development and SEO Agency - Web3 Sites That Rank | KolWeb3',
   description:
     'Web3 website development and crypto SEO built to convert and rank. KolWeb3 builds fast, compliant websites for DeFi, RWA, Gaming and Fintech projects - optimized for Google and AI search.',
-  alternates: { canonical: 'https://kolweb3.com/services/website-development-seo' },
+  alternates: { canonical: 'https://www.kolweb3.com/services/website-development-seo' },
   openGraph: {
     title: 'Crypto Website Development and SEO Agency - Web3 Sites That Rank | KolWeb3',
     description:
       'Web3 website development and crypto SEO built to convert and rank. KolWeb3 builds fast, compliant websites for DeFi, RWA, Gaming and Fintech projects - optimized for Google and AI search.',
-    url: 'https://kolweb3.com/services/website-development-seo',
+    url: 'https://www.kolweb3.com/services/website-development-seo',
   },
 };
 

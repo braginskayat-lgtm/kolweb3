@@ -8,11 +8,11 @@ export const metadata: Metadata = {
   title: 'Crypto KOL Marketing Case Studies | Proven Results',
   description:
     'Real crypto KOL marketing case studies: $3.1M+ managed, $1B TVL for LayerAI, $1.34M+ deposits for PrimeXBT. Verified performance data.',
-  alternates: { canonical: 'https://kolweb3.com/cases' },
+  alternates: { canonical: 'https://www.kolweb3.com/cases' },
   openGraph: {
     title: 'Crypto KOL Marketing Case Studies | kolweb3.com',
     description: 'Verified case studies: $3.1M fintech KOL campaigns, $1B TVL IDO, $1.34M+ exchange deposits.',
-    url: 'https://kolweb3.com/cases',
+    url: 'https://www.kolweb3.com/cases',
   },
 };
 

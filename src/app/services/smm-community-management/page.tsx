@@ -5,11 +5,11 @@ export const metadata: Metadata = {
   title: 'Crypto Community Management & SMM | Telegram, Discord, Reddit',
   description:
     'Professional crypto community management for Telegram, Discord, Reddit, and Twitter. 3-5 posts/day, AMA sessions, moderation. 55,000+ members grown.',
-  alternates: { canonical: 'https://kolweb3.com/services/smm-community-management' },
+  alternates: { canonical: 'https://www.kolweb3.com/services/smm-community-management' },
   openGraph: {
     title: 'Crypto Community Management | Telegram & Discord | kolweb3.com',
     description: 'Daily SMM and community management for crypto projects. 55,000+ members grown. 3-5 posts/day, AMA sessions, moderation.',
-    url: 'https://kolweb3.com/services/smm-community-management',
+    url: 'https://www.kolweb3.com/services/smm-community-management',
   },
 };
 

@@ -9,11 +9,11 @@ export const metadata: Metadata = {
   title: 'Crypto & Web3 Marketing Agency | DeFi, NFT, Layer-2 Marketing',
   description:
     'Specialist crypto & Web3 marketing agency for DeFi protocols, NFT collections, Layer-2 chains, AI blockchain, and DAO projects. KOL campaigns, community, PR.',
-  alternates: { canonical: 'https://kolweb3.com/industries/crypto-web3' },
+  alternates: { canonical: 'https://www.kolweb3.com/industries/crypto-web3' },
   openGraph: {
     title: 'Crypto & Web3 Marketing Agency | kolweb3.com',
     description: 'KOL marketing, community management, and PR for DeFi, NFT, Layer-2, and AI blockchain projects.',
-    url: 'https://kolweb3.com/industries/crypto-web3',
+    url: 'https://www.kolweb3.com/industries/crypto-web3',
   },
 };
 
@@ -21,7 +21,7 @@ const schemaMarkup = {
   '@context': 'https://schema.org',
   '@type': 'Service',
   name: 'Crypto & Web3 Marketing',
-  provider: { '@type': 'Organization', name: 'kolweb3.com', url: 'https://kolweb3.com' },
+  provider: { '@type': 'Organization', name: 'kolweb3.com', url: 'https://www.kolweb3.com' },
   description: 'KOL marketing, influencer campaigns, community management and PR for crypto, Web3, DeFi, NFT, and Layer-2 blockchain projects.',
   areaServed: 'Worldwide',
   serviceType: 'Crypto Marketing Agency',
