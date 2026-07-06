@@ -1,3 +1,4 @@
+import { WhatsAppButton } from '@/components/ui/WhatsAppButton';
 import type { Metadata } from 'next';
 import { Inter } from 'next/font/google';
 import './globals.css';
@@ -100,6 +101,7 @@ export default function RootLayout({
         <Header />
         <main>{children}</main>
         <Footer />
+      <WhatsAppButton />
       </body>
       <GoogleAnalytics gaId="G-X37SBJZYE5" />
     </html>
