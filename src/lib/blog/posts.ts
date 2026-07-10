@@ -4282,7 +4282,7 @@ export const blogPosts: BlogPost[] = [
   tags: ['Japan Crypto Marketing', 'Web3 Marketing Agency', 'Crypto KOL Marketing', 'Crypto PPC', 'Crypto Community Management'],
   readTime: '14 min read',
   date: 'July 2026',
-  published: false,
+  published: true,
   seoTitle: 'Crypto Marketing in Japan | KOL, PPC & Community Strategy Guide 2026',
   seoDescription: 'A practical guide to crypto marketing in Japan: KOL strategy, PPC, social media, and PR, compared against launching a Web3 project in the US and Europe.',
   content: [
